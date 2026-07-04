@@ -1,0 +1,44 @@
+<svg width="760" height="440" viewBox="0 0 760 440" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
+  <!-- window shadow -->
+  <rect x="6" y="10" width="748" height="422" rx="16" fill="#000000" opacity="0.15"/>
+
+  <!-- window body (bright lavender) -->
+  <rect x="0" y="0" width="748" height="422" rx="16" fill="#9B7FE8"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="748" height="42" rx="16" fill="#8267D6"/>
+  <rect x="0" y="22" width="748" height="20" fill="#8267D6"/>
+
+  <!-- traffic-light dots -->
+  <circle cx="26" cy="21" r="7" fill="#FFFFFF"/>
+  <circle cx="50" cy="21" r="7" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="74" cy="21" r="7" fill="#FFFFFF" opacity="0.6"/>
+
+  <!-- title -->
+  <text x="374" y="26" text-anchor="middle" font-size="13" fill="#FFFFFF">radha_chintawar.py — Tkinter Console</text>
+
+  <!-- menu-ish underline -->
+  <line x1="0" y1="42" x2="748" y2="42" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/>
+
+  <!-- code body -->
+  <text x="30" y="78" font-size="15" fill="#FFFFFF" xml:space="preserve">
+    <tspan x="30" dy="0"><tspan font-weight="bold">class</tspan> RadhaChintawar:</tspan>
+    <tspan x="30" dy="28"><tspan font-weight="bold">    def</tspan> __init__(self):</tspan>
+    <tspan x="30" dy="28">        self.name     = "Radha Chintawar"</tspan>
+    <tspan x="30" dy="28">        self.role     = "ML Engineer &amp; Web Developer"</tspan>
+    <tspan x="30" dy="28">        self.stack    = ["Python","Java","C++","HTML/CSS/JS","MySQL"]</tspan>
+    <tspan x="30" dy="28">        self.linkedin = "linkedin.com/in/radhachintawar"</tspan>
+    <tspan x="30" dy="40"><tspan font-weight="bold">    def</tspan> say_hi(self):</tspan>
+    <tspan x="30" dy="28">        <tspan font-weight="bold">print</tspan>("Thanks for stopping by my profile! 🌸")</tspan>
+    <tspan x="30" dy="40">me = RadhaChintawar()</tspan>
+    <tspan x="30" dy="28">me.say_hi()</tspan>
+  </text>
+
+  <!-- console output line -->
+  <text x="30" y="382" font-size="14" fill="#FFFFFF">&gt;&gt;&gt; Thanks for stopping by my profile! 🌸</text>
+
+  <!-- blinking cursor -->
+  <rect x="30" y="392" width="10" height="16" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
