@@ -1,29 +1,24 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42326E,50:B29CE4,100:E0D4FC&height=200&section=header&text=Hi%20👋,%20I'm%20Radha%20Chintawar&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=ML%20Engineer%20%26%20Web%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42326E,50:B29CE4,100:E0D4FC&height=200&section=header&text=Hi%2C%20I%27m%20Radha%20Chintawar&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B29CE4&center=true&vCenter=true&width=600&lines=ML+Engineer+%26+Web+Developer;Turning+ideas+into+code+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%8C%B8" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=radhaChintawar&label=Profile%20Views&color=B29CE4&style=flat" alt="profile views"/>
-</p>
+
 
 <!-- ================= ABOUT (TKINTER TERMINAL) ================= -->
-### 🖥️ About Me
+###  About Me
 
 <p align="center">
   <img src="assets/tkinter_terminal.svg" width="700" alt="Tkinter-style terminal intro"/>
-  
 </p>
-
-> ⚠️ Upload `tkinter_terminal.svg` (shared alongside this file) into an `assets/` folder in this repo — GitHub will then render it at the path above.
 
 <br>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-42326E?style=for-the-badge&logo=python&logoColor=E0D4FC"/>
@@ -37,12 +32,7 @@
 
 <br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=radhaChintawar&show_icons=true&count_private=true&hide_border=true&bg_color=3A2C63&title_color=E0D4FC&icon_color=D7C8ED&text_color=B2A6CE"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhaChintawar&layout=compact&hide_border=true&bg_color=3A2C63&title_color=E0D4FC&text_color=B2A6CE"/>
-</p>
+###  GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=radhaChintawar&hide_border=true&background=3A2C63&ring=B29CE4&fire=E0D4FC&currStreakLabel=E0D4FC&sideLabels=B2A6CE&dates=B2A6CE&currStreakNum=E0D4FC&sideNums=E0D4FC"/>
@@ -50,7 +40,7 @@
 
 <br>
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radhachintawar/">
