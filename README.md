@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42326E,50:B29CE4,100:E0D4FC&height=200&section=header&text=Hi%20👋,%20I'm%20Radha%20Chintawar&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=ML%20Engineer%20%26%20Web%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+</p>
 
-<!--
-**radhaChintawar/radhaChintawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B29CE4&center=true&vCenter=true&width=600&lines=ML+Engineer+%26+Web+Developer;Turning+ideas+into+code+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%8C%B8" alt="Typing SVG"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=radhaChintawar&label=Profile%20Views&color=B29CE4&style=flat" alt="profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ================= ABOUT (TKINTER TERMINAL) ================= -->
+### 🖥️ About Me
+
+<p align="center">
+  <img src="assets/tkinter_terminal.svg" width="700" alt="Tkinter-style terminal intro"/>
+  
+</p>
+
+> ⚠️ Upload `tkinter_terminal.svg` (shared alongside this file) into an `assets/` folder in this repo — GitHub will then render it at the path above.
+
+<br>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-42326E?style=for-the-badge&logo=python&logoColor=E0D4FC"/>
+  <img src="https://img.shields.io/badge/Java-6E5B9A?style=for-the-badge&logo=openjdk&logoColor=E0D4FC"/>
+  <img src="https://img.shields.io/badge/C++-B29CE4?style=for-the-badge&logo=cplusplus&logoColor=2E2350"/>
+  <img src="https://img.shields.io/badge/HTML5-B2A6CE?style=for-the-badge&logo=html5&logoColor=2E2350"/>
+  <img src="https://img.shields.io/badge/CSS3-D7C8ED?style=for-the-badge&logo=css3&logoColor=2E2350"/>
+  <img src="https://img.shields.io/badge/JavaScript-E0D4FC?style=for-the-badge&logo=javascript&logoColor=2E2350"/>
+  <img src="https://img.shields.io/badge/MySQL-42326E?style=for-the-badge&logo=mysql&logoColor=E0D4FC"/>
+</p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=radhaChintawar&show_icons=true&count_private=true&hide_border=true&bg_color=3A2C63&title_color=E0D4FC&icon_color=D7C8ED&text_color=B2A6CE"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhaChintawar&layout=compact&hide_border=true&bg_color=3A2C63&title_color=E0D4FC&text_color=B2A6CE"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=radhaChintawar&hide_border=true&background=3A2C63&ring=B29CE4&fire=E0D4FC&currStreakLabel=E0D4FC&sideLabels=B2A6CE&dates=B2A6CE&currStreakNum=E0D4FC&sideNums=E0D4FC"/>
+</p>
+
+<br>
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/radhachintawar/">
+    <img src="https://img.shields.io/badge/LinkedIn-6E5B9A?style=for-the-badge&logo=linkedin&logoColor=E0D4FC"/>
+  </a>
+  <a href="mailto:radhachintawar1557@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-42326E?style=for-the-badge&logo=gmail&logoColor=E0D4FC"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0D4FC,50:B29CE4,100:42326E&height=120&section=footer" width="100%"/>
+</p>
