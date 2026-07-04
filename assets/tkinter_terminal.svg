@@ -1,0 +1,44 @@
+<svg width="760" height="440" viewBox="0 0 760 440" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
+  <!-- window shadow -->
+  <rect x="6" y="10" width="748" height="422" rx="16" fill="#000000" opacity="0.15"/>
+
+  <!-- window body -->
+  <rect x="0" y="0" width="748" height="422" rx="16" fill="#7C68B8"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="748" height="42" rx="16" fill="#6E5B9A"/>
+  <rect x="0" y="22" width="748" height="20" fill="#6E5B9A"/>
+
+  <!-- traffic-light dots (lavender tinted) -->
+  <circle cx="26" cy="21" r="7" fill="#F3ECFF"/>
+  <circle cx="50" cy="21" r="7" fill="#E0D4FC"/>
+  <circle cx="74" cy="21" r="7" fill="#D7C8ED"/>
+
+  <!-- title -->
+  <text x="374" y="26" text-anchor="middle" font-size="13" fill="#F3ECFF">radha_chintawar.py — Tkinter Console</text>
+
+  <!-- menu-ish underline -->
+  <line x1="0" y1="42" x2="748" y2="42" stroke="#9584C9" stroke-width="1"/>
+
+  <!-- code body -->
+  <text x="30" y="78" font-size="15" fill="#2E2350" xml:space="preserve">
+    <tspan x="30" dy="0"><tspan fill="#2E2350" font-weight="bold">class</tspan> <tspan fill="#2E2350">RadhaChintawar:</tspan></tspan>
+    <tspan x="30" dy="28"><tspan fill="#2E2350" font-weight="bold">    def</tspan> <tspan fill="#42326E">__init__</tspan>(self):</tspan>
+    <tspan x="30" dy="28">        self.name     = <tspan fill="#FFFFFF">"Radha Chintawar"</tspan></tspan>
+    <tspan x="30" dy="28">        self.role     = <tspan fill="#FFFFFF">"ML Engineer &amp; Web Developer"</tspan></tspan>
+    <tspan x="30" dy="28">        self.stack    = [<tspan fill="#FFFFFF">"Python","Java","C++","HTML/CSS/JS","MySQL"</tspan>]</tspan>
+    <tspan x="30" dy="28">        self.linkedin = <tspan fill="#FFFFFF">"linkedin.com/in/radhachintawar"</tspan></tspan>
+    <tspan x="30" dy="40"><tspan fill="#2E2350" font-weight="bold">    def</tspan> <tspan fill="#42326E">say_hi</tspan>(self):</tspan>
+    <tspan x="30" dy="28">        <tspan fill="#2E2350" font-weight="bold">print</tspan>(<tspan fill="#FFFFFF">"Thanks for stopping by my profile! 🌸"</tspan>)</tspan>
+    <tspan x="30" dy="40"><tspan fill="#42326E">me</tspan> = RadhaChintawar()</tspan>
+    <tspan x="30" dy="28"><tspan fill="#42326E">me</tspan>.say_hi()</tspan>
+  </text>
+
+  <!-- console output line -->
+  <text x="30" y="382" font-size="14" fill="#F3ECFF">&gt;&gt;&gt; Thanks for stopping by my profile! 🌸</text>
+
+  <!-- blinking cursor -->
+  <rect x="30" y="392" width="10" height="16" fill="#F3ECFF"
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
